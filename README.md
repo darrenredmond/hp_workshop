@@ -9,7 +9,7 @@ Master Data Management - Evan Levy - SAS - [https://www.youtube.com/watch?v=5lS7
 
 Data Governance - Lisa Loftis - SAS - [https://www.youtube.com/watch?v=iV_bT8eVP3s](https://www.youtube.com/watch?v=iV_bT8eVP3s)
 
-Big Data, Hadoop, Map Reduce - Patrick Schwerditfeger - [https://www.youtube.com/watch?v=c4BwefH5Ve8](https://www.youtube.com/watch?v=c4BwefH5Ve8)
+Big Data, Hadoop, Map Reduce - Patrick Schwerdtfeger - [https://www.youtube.com/watch?v=c4BwefH5Ve8](https://www.youtube.com/watch?v=c4BwefH5Ve8)
 
 Mix Medications - Russ Altman - [https://www.ted.com/talks/russ_altman_what_really_happens_when_you_mix_medications](https://www.ted.com/talks/russ_altman_what_really_happens_when_you_mix_medications)
 
@@ -26,4 +26,18 @@ Social Media Likes - Jennifer Golbeck - [https://www.ted.com/talks/jennifer_golb
 [https://www.lynda.com/learning-paths/Developer/become-a-python-developer?orientation=1](https://www.lynda.com/learning-paths/Developer/become-a-python-developer?orientation=1)
 
 [https://www.lynda.com/NoSQL-tutorials/NoSQL-SQL-Professionals/368756-2.html](https://www.lynda.com/NoSQL-tutorials/NoSQL-SQL-Professionals/368756-2.html)
+
+* Amazon EMR
+
+Amazon EMR is based on Hadoop, a Java-based programming framework that supports the processing of large data sets in a distributed computing environment. MapReduce is a software framework that allows developers to write programs that process massive amounts of unstructured data in parallel across a distributed cluster of processors or stand-alone computers.
+
+EC2 (Elastic Compute Cloud) and S3 (Simple Secure Storage) will also be employed.
+
+Elastic Map Reduce:
+
+[https://aws.amazon.com/elasticmapreduce](https://aws.amazon.com/elasticmapreduce)
+
+Getting Started Tutorial:
+
+[http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
 
