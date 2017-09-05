@@ -17,7 +17,7 @@ Hacking Online Dating - Amy Webb - [https://www.ted.com/talks/amy_webb_how_i_hac
 
 Social Media Likes - Jennifer Golbeck - [https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think)
 
-*Lynda.com - Data Analytics Courses
+* Lynda.com - Data Analytics Courses
 
 [https://www.lynda.com/Business-Intelligence-tutorials/Data-Visualization-Tips-Tricks/475454-2.html](https://www.lynda.com/Business-Intelligence-tutorials/Data-Visualization-Tips-Tricks/475454-2.html)
 
