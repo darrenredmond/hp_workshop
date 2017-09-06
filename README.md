@@ -3,6 +3,9 @@ Data Analytics Workshop for Hewlett Packard - 5th-6th September 2017
 
 Kaggle [http://www.kaggle.com](http://www.kaggle.com/) The home of Data Science
 
+R for Windows
+[https://cloud.r-project.org/bin/windows/base/R-3.4.1-win.exe](https://cloud.r-project.org/bin/windows/base/R-3.4.1-win.exe)
+
 * More Detailed Videos
 
 Master Data Management - Evan Levy - SAS - [https://www.youtube.com/watch?v=5lS7Jy-Cz8E](https://www.youtube.com/watch?v=5lS7Jy-Cz8E)
@@ -46,4 +49,8 @@ Elastic Map Reduce:
 Getting Started Tutorial:
 
 [http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
+
+* Azure ML Studio
+
+[https://studio.azureml.net/](https://studio.azureml.net/)
 
