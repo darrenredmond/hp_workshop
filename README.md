@@ -27,6 +27,12 @@ Social Media Likes - Jennifer Golbeck - [https://www.ted.com/talks/jennifer_golb
 
 [https://www.lynda.com/NoSQL-tutorials/NoSQL-SQL-Professionals/368756-2.html](https://www.lynda.com/NoSQL-tutorials/NoSQL-SQL-Professionals/368756-2.html)
 
+[https://www.lynda.com/Data-Science-tutorials/Overfitting-underfitting/548594/598249-4.html](https://www.lynda.com/Data-Science-tutorials/Overfitting-underfitting/548594/598249-4.html)
+
+* Advanced Data Analytics Course - Find lectures, practicals, examples, etc...
+
+[http://darren.dbsdataprojects.com/category/advanced-data-analytics](http://darren.dbsdataprojects.com/category/advanced-data-analytics)
+
 * Amazon EMR
 
 Amazon EMR is based on Hadoop, a Java-based programming framework that supports the processing of large data sets in a distributed computing environment. MapReduce is a software framework that allows developers to write programs that process massive amounts of unstructured data in parallel across a distributed cluster of processors or stand-alone computers.
