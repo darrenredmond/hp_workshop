@@ -1,5 +1,5 @@
 # hp_workshop
-Data Analytics Workshop for Hewlett Packard - 5th-6th September 2017
+Data Analytics Workshop for Hewlett Packard - 5th-6th September 2017, 23rd-24th October 2017
 
 Kaggle [http://www.kaggle.com](http://www.kaggle.com/) The home of Data Science
 
