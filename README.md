@@ -54,3 +54,7 @@ Getting Started Tutorial:
 
 [https://studio.azureml.net/](https://studio.azureml.net/)
 
+* Multiple Linear Regression
+
+[http://darren.dbsdataprojects.com/2016/09/09/lab-2-multiple-linear-regression/](http://darren.dbsdataprojects.com/2016/09/09/lab-2-multiple-linear-regression/)
+
