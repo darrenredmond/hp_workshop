@@ -33,8 +33,7 @@ Social Media Likes - Jennifer Golbeck - [https://www.ted.com/talks/jennifer_golb
 [https://www.lynda.com/Data-Science-tutorials/Overfitting-underfitting/548594/598249-4.html](https://www.lynda.com/Data-Science-tutorials/Overfitting-underfitting/548594/598249-4.html)
 
 * Advanced Data Analytics Course - Find lectures, practicals, examples, etc...
-
-[http://darren.dbsdataprojects.com/category/advanced-data-analytics](http://darren.dbsdataprojects.com/category/advanced-data-analytics)
+[http://darren.dbsdataprojects.com/category/advanced-data-analytics/?order=asc](http://darren.dbsdataprojects.com/category/advanced-data-analytics/?order=asc)
 
 * Amazon EMR
 
